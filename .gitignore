@@ -1,0 +1,4 @@
+/target
+/static
+chat.db
+node_modules
